@@ -114,15 +114,7 @@ const developer = {
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
 
-## 🎵 Spotify Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-kyzbk7wxl-barelyaprogrammer.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-
-</div>
 
 ---
 
