@@ -1,4 +1,4 @@
-# 👋 Hey there,  I'm Kannan S!
+# 👋 Hey there, I'm [Your Name]!
 
 <div align="center">
   
@@ -116,15 +116,20 @@ const developer = {
 
 </div>
 
+## 🎵 Spotify Playing
 
+<div align="center">
+
+[![Spotify](https://novatorem-kyzbk7wxl-barelyaprogrammer.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+
+</div>
+
+---
+
+<div align="center">
 
 ### 🌟 Thanks for stopping by! Let's build something amazing together! 🌟
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kannan-innovates&color=blueviolet&style=for-the-badge)
 
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kannan-innovates/kannan-innovates/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
